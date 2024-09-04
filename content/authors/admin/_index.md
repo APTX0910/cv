@@ -23,7 +23,8 @@ highlight_name: true
 role: A Master Student at NAOC, CAS
 
 # email adress
-email: heyj@bao.ac.cn
+email: 
+  - name: heyj@bao.ac.cn
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
