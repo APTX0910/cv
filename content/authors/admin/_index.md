@@ -22,7 +22,6 @@ highlight_name: true
 # Role/position/tagline
 role: A Master Student at NAOC, CAS
 
-title : heyj@bao.ac.cn
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
