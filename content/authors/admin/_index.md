@@ -20,7 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Master student in NAOC, CAS
+role: 
+  - A Master Student at
+  - the National Astronomical Observatories, CAS
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
@@ -47,9 +49,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Binary Star Formation and Evolution
+  - Heartbeat Stars and Tidal Interactions
+  - Asteroseismology
+
+  
 
 education:
   - area: PhD Artificial Intelligence
