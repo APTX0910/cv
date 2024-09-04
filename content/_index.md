@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: naoc.jpg #stacked-peaks.svg
+          filename: lamost.jpg #stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
