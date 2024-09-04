@@ -20,11 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: A Master Student at NAOC, CAS
-
-# email adress
-email: 
-  - name: heyj@bao.ac.cn
+role: 
+  A Master Student at NAOC, CAS<br>
+  heyj@bao.ac.cn
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
