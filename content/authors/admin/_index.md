@@ -23,7 +23,7 @@ highlight_name: true
 role: A Master Student at NAOC, CAS
 
 # add email adress
-email: heyj.bao.ac.cn
+email: heyj@bao.ac.cn
 
 
 # Organizations/Affiliations to display in Biography blox
@@ -35,7 +35,7 @@ email: heyj.bao.ac.cn
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:heyj.bao.ac.cn' #'mailto:your-email@example.com'
+    url: 'mailto:heyj@bao.ac.cn' #'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
