@@ -20,9 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 
-  - A Master Student at
-  - the National Astronomical Observatories, CAS
+role: A Master Student at NAOC, CAS
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
