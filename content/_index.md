@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My research focuses on determining the stellar parameters of eclipsing spectroscopic binaries using LAMOST spectra and public photometric data. This work involves studying the mass-radius relationship and gravitational redshift of white dwarfs, M-dwarf parameters, and the period gap in cataclysmic variables. It encompasses spectral data processing, stellar parameter determination, radial velocity fitting, spectral energy distribution (SED) fitting, and binary star modeling.
         
-        Please reach out to collaborate 😃
+        Please feel free to contact me if you are interested in potential collaborations. 😃
     design:
       columns: '1'
   - block: collection

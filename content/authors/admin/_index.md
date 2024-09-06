@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-I am a graduate student at the National Astronomical Observatories of the Chinese Academy of Sciences. My research focuses on determining the parameters and understanding the formation and evolution of binary stars. My work is based on LAMOST spectra and publicly available light curve data, encompassing spectral data processing, stellar parameter determination, radial velocity fitting, spectral energy distribution (SED) fitting, and binary star modeling. Additionally, I have a strong interest in asteroseismology, particularly in a special class of eccentric binary systems known as heartbeat stars.
+I am a graduate student at the National Astronomical Observatories of the Chinese Academy of Sciences. My research focuses on determining the parameters and understanding the formation and evolution of binary stars. Additionally, I have a strong interest in asteroseismology, particularly in a special class of eccentric binary systems known as heartbeat stars.
