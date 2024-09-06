@@ -42,7 +42,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/APTX0910
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
