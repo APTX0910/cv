@@ -37,16 +37,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:heyj@bao.ac.cn' #'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/fairyxr0910?igsh=MTMyNnRydGlzMW03Yg%3D%3D&utm_source=qr
   - icon: brands/github
     url: https://github.com/APTX0910
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0009-0008-0146-118X
 
